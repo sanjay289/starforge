@@ -2,6 +2,8 @@
 
 Audit a repository for the signals that make people trust, use, and star open source projects.
 
+![Starforge terminal demo](assets/demo.svg)
+
 Starforge is a zero-dependency Python CLI that scores a repo and prints a concrete checklist for improving its GitHub presence: README quality, install instructions, examples, tests, CI, license, contribution docs, releases, and repo metadata.
 
 ## Why this exists

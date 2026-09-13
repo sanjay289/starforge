@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560" role="img" aria-labelledby="title desc">
+  <title id="title">Starforge CLI demo</title>
+  <desc id="desc">Terminal output showing a Starforge repository audit score and recommended fixes.</desc>
+  <rect width="980" height="560" fill="#f5f7fb"/>
+  <rect x="40" y="36" width="900" height="488" rx="8" fill="#101820"/>
+  <rect x="40" y="36" width="900" height="48" rx="8" fill="#182532"/>
+  <circle cx="72" cy="60" r="7" fill="#ff5f57"/>
+  <circle cx="96" cy="60" r="7" fill="#ffbd2e"/>
+  <circle cx="120" cy="60" r="7" fill="#28c840"/>
+  <text x="156" y="66" fill="#cad6e2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">starforge ~/projects/demo</text>
+
+  <text x="72" y="126" fill="#91f2b3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">$ starforge</text>
+  <text x="72" y="174" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700">Starforge score: 72/104 (69%)</text>
+
+  <text x="72" y="228" fill="#cad6e2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">Strong signals</text>
+  <text x="96" y="266" fill="#91f2b3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">[ok]</text>
+  <text x="156" y="266" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">README exists: README.md</text>
+  <text x="96" y="302" fill="#91f2b3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">[ok]</text>
+  <text x="156" y="302" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">License exists: LICENSE</text>
+  <text x="96" y="338" fill="#91f2b3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">[ok]</text>
+  <text x="156" y="338" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Tests detected: Test files or directories found</text>
+
+  <text x="72" y="400" fill="#cad6e2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">Highest impact fixes</text>
+  <text x="96" y="438" fill="#ffcf70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">[missing]</text>
+  <text x="210" y="438" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Add a quickstart section to README</text>
+  <text x="96" y="474" fill="#ffcf70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">[missing]</text>
+  <text x="210" y="474" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Add GitHub Actions CI</text>
+</svg>
