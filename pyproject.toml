@@ -24,8 +24,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/starforge"
-Issues = "https://github.com/YOUR_USERNAME/starforge/issues"
+Homepage = "https://github.com/sanjay289/starforge"
+Issues = "https://github.com/sanjay289/starforge/issues"
 
 [project.scripts]
 starforge = "starforge.cli:main"
